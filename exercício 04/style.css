@@ -1,0 +1,10 @@
+button{
+    text-decoration: none;
+    background-color: gray;
+    color:white;
+    border: 0px;
+}
+button:hover{
+    background-color:skyblue;
+    color:gray;
+}

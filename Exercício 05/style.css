@@ -1,0 +1,10 @@
+button{
+    font-family: Georgia;
+    color:#272900;
+    background-color: #9fa41d;
+    border: 0px;
+}
+button:hover{
+    color:white;
+    background-color: #272900;
+}
