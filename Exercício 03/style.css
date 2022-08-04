@@ -1,9 +1,10 @@
-button{
+a{
     color:gray;
     background-color: white;
     border-bottom: 0px;
+    text-decoration: none;
 }
-button:hover{
+a:hover{
     color: red;
-    border-top-color: red;
+    text-decoration: overline;
 }
